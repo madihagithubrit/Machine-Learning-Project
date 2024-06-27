@@ -1,2 +1,2 @@
-# Machine-Learning-Project
-Pakistan Stock Market Prediction
+# ML-Project-Stock-Predictor
+We Develop Pakistan Stock Exchange Stock Predictor
